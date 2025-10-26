@@ -1,6 +1,5 @@
 # LPL-Compiler-Showcase
 A compiler for a subset of the LPL language.
-
 This project implements the first stage of a compiler for the LPL programming language.
 
 ---
@@ -21,4 +20,4 @@ These components combine to form the full compiler pipeline.
 
 ##  Academic Integrity Notice
 This work was submitted as part of an assessed coursework. To protect academic policy and avoid enabling plagiarism. 
-Full source code is stored in a private repository
+Full source code is stored in a private repository.
